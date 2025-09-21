@@ -1,0 +1,11 @@
+gradio
+requests
+python-docx
+PyPDF2
+pillow
+pytesseract
+pymongo
+groq
+newsapi-python
+pandas
+plotly
